@@ -85,6 +85,9 @@ ${data.username}
 
     ${data.email}
 ##email:
+
+##questions:
+  ${data.questions}
 `;
 }
 
