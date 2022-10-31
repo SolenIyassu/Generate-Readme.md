@@ -87,7 +87,16 @@ ${data.username}
 ##email:
 
 ##questions:
-  ${data.questions}
+"What is the Title of the project?",
+"How will this project be used?",
+ "What is your email address?",
+ "Who contributed?",
+ "What is your Github username?",
+ "What licenses are being used?",
+ "What is the description of this project?",
+  "How are you going to do the installation?",
+  "How are you going to test this project?"
+  
 `;
 }
 
